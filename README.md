@@ -20,14 +20,14 @@ I work at the intersection of frontend engineering, backend architecture and dev
 
 ## 🧠 What I Do
 
- 👉 Teach programming through YouTube, short tutorials, and practical examples.
- 👉 Lead TechQul, an agency delivering high-quality software solutions.
- 👉 Build production-grade systems like Smart Somity using clean architecture.
- 👉 Explore AI tools, developer productivity workflows, and automation.
- 👉 Conduct workshops on JavaScript, React, and full-stack best practices.
- 👉 Mentor beginner developers and guide career progression.
- 👉 Advocate for testing, debugging, optimization, and maintainable code design.
- 👉 Share insights on engineering, leadership, and real-life dev experiences.
+ - Teach programming through YouTube, short tutorials, and practical examples.
+ - Lead TechQul, an agency delivering high-quality software solutions.
+ - Build production-grade systems like Smart Somity using clean architecture.
+ - Explore AI tools, developer productivity workflows and automation.
+ - Conduct workshops on JavaScript, React and full-stack best practices.
+ - Mentor beginner developers and guide career progression.
+ - Advocate for testing, debugging, optimization and maintainable code design.
+ - Share insights on engineering, leadership and real-life dev experiences.
 
 ## 🏢 Founder of TechQul**
 
