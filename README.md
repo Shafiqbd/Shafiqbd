@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/shafiq-info">💼 LinkedIn</a>
 </p>
 
-<a href="https://www.youtube.com/@shafiqdotinfo" target="_blank"><img src="./images/banner.jpeg" alt="Shafiq info banner"/></a>
+<a href="https://www.youtube.com/@shafiqdotinfo" target="_blank"><img src="./images/banner-2.png" alt="Shafiq info banner"/></a>
 
 
 ## 🚀 About Me
