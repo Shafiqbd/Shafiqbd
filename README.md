@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <strong>Md. Shafiqul Islam</strong></h1>
-<h3 align="center"> Full Stack Engineer • Tech Educator at Shafiq Info • Menotor </h3>
+<h3 align="center"> Full Stack Engineer(Reactjs, Nestjs) • Tech Educator at Shafiq Info • Menotor </h3>
 
 <p align="center">
   📺 YouTube(<a href="https://www.youtube.com/@shafiqdotinfo">Bangla</a>) •
