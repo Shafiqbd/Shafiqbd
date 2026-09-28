@@ -4,7 +4,6 @@
 <p align="center">
   📺 YouTube(<a href="https://www.youtube.com/@shafiqdotinfo">Bangla</a>) •
   <a href="https://www.shafiq.info.bd">🌐 Website</a> •
-  <a href="https://twitter.com/#">🐦 Twitter</a> •
   <a href="https://linkedin.com/in/shafiq-info">💼 LinkedIn</a>
 </p>
 
