@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <strong>Md. Shafiqul Islam</strong></h1>
-<h3 align="center"> Full Stack Engineer(Reactjs, Nestjs) • Tech Educator at Shafiq Info • Menotor </h3>
+<h3 align="center"> Full-Stack Software Engineer | React, Next.js, Node.js, NestJS | AI & Software Engineering </h3>
 
 <p align="center">
   📺 YouTube(<a href="https://www.youtube.com/@shafiqdotinfo">Bangla</a>) •
@@ -19,69 +19,80 @@ I work at the intersection of frontend engineering, backend architecture and dev
 
 ## 🧠 What I Do
 
- - Teach programming through YouTube, short tutorials, and practical examples.
- - Lead TechQul, an agency delivering high-quality software solutions.
- - Build production-grade systems like Smart Somity using clean architecture.
- - Explore AI tools, developer productivity workflows and automation.
- - Conduct workshops on JavaScript, React and full-stack best practices.
- - Mentor beginner developers and guide career progression.
- - Advocate for testing, debugging, optimization and maintainable code design.
- - Share insights on engineering, leadership and real-life dev experiences.
+- 🚀 Build scalable full-stack web applications
+- 🏢 Develop custom business & management software
+- 🤖 Integrate AI into modern applications and workflows
+- 🧩 Design APIs, backend systems and databases
+- 🏗️ Work on system architecture and technical solutions
+- 👨‍🏫 Mentor developers and create technical content
 
-## 🏢 Founder of TechQul**
+## 🚀 Founder of TechQul
 
-A personal engineering initiative where I build products, collaborate with clients, and share educational content. I maintain this alongside my full-time role at ITC PLC.
+I lead **TechQul**, a software development initiative focused on building practical digital solutions for businesses and clients.
 
-- AI product development  
-- Website design and development
-- UX design & research
-- Developer upskilling & tech training
+### Focus Areas
+- Full-stack web development
+- Business & management software
+- AI-powered solutions
+- UI/UX implementation
+- Developer mentoring & training
 
-🌐 **Website:** https://techqul.com
+🌐 Website: https://techqul.com
 
-## 📚 My Journey as an Educator
+## 🎓 My Journey as an Educator
 
-I actually **started my career as a teacher**, so teaching has always been a natural passion for me. I love helping people understand complex topics in a simple, practical way.
+I started my professional journey as an **ICT Teacher**, where I discovered my passion for programming and helping others understand technology.
 
-Over the years, I’ve taught **multiple MERN stack batches**, guiding students through real-world projects and helping them build strong foundations in web development.
-
-Alongside this, I run a YouTube channel called Shafiq Info, where I publish educational videos on programming, software engineering, and practical development tips.
+Today, I continue that journey through **Shafiq Info**, where I share practical content about programming, software engineering, AI, and modern development practices.
 
 👉 Check it out: https://www.youtube.com/@shafiqdotinfo
 
+## 🌱 Why I Share
 
-### 🌱 Why I Share What I Learn
-philosophy: learn, practice and present.
-Whatever I learn, I try to share with others so they can grow with me.
+I believe technology becomes more valuable when knowledge is shared.
 
-- Teach with clarity  
-- Use real life examples  
-- Sharing insights from industry experience 
-- Help developers learn faster and smarter  
+- Teach with clarity
+- Share real-world experience
+- Build practical examples
+- Help developers learn faster
 
 I strongly believe:
 
 > **“May what I learn and build keep helping others after I'm gone”**
 
-## 🧰 Skills & Tools
+## 🛠️ Skills & Tools
 
-- **Frontend:** React, Next.js, TailwindCSS  
-- **Backend:** Node.js, Nest.js, PHP, Laravel, Python
-- **Database** Mysql, PostgreSQL, Mongodb
-- **AI** LLM API, RAG, Agentic AI, Web Automation, Web Scraping  
-- **Languages:** JavaScript, TypeScript
-- **Tools & Deployment:** Git, Github Action, Docker, AWS S3, VPS 
-- **Design:** Figma, UX Principles  
+**Frontend**
+React, Next.js, TypeScript, JavaScript, Tailwind CSS
 
-## 📝 Latest Content & Writing
+**Backend**
+Node.js, NestJS, Laravel, REST APIs
 
-I regularly share engineering content around:
+**Database**
+PostgreSQL, MySQL, MongoDB, Redis
 
-- JavaScript performance  
-- React patterns  
-- Testing & debugging  
-- AI concepts & terminologies  
-- Career growth for developers  
+**Cloud & DevOps**
+Docker, GitHub Actions, AWS, VPS, Nginx
+
+**AI**
+LLM APIs, RAG, AI Agents, AI Coding Tools
+
+**Tools**
+Git, GitHub, Postman, Swagger
+
+**Design**
+Figma, UI/UX Principles
+
+## ✍️ Latest Content
+
+I regularly write about:
+
+- JavaScript & React
+- Next.js & Full-Stack Development
+- Backend & Database Engineering
+- AI & AI-Native Development
+- Testing, Debugging & System Design
+- Developer Career & Learning
 
 You can explore more at: **https://www.shafiq.info.bd/articles**
 
